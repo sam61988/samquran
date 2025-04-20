@@ -8,6 +8,7 @@ class Homescreen extends StatelessWidget {
     return Scaffold(
       appBar: AppBar(
         title: Text('QuranApp'),
+        backgroundColor: Colors.blueAccent,
       ),
     );
   }
