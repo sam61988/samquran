@@ -4,7 +4,6 @@ import 'package:quranapp/HomeScreen.dart';
 void main() {
   runApp(Myapp());
 }
-
 class Myapp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
